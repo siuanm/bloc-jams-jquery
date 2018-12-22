@@ -1,0 +1,1 @@
+Bloc Jams is a music playing app created with JavaScript and jQuery to manipulate the DOM. The player allows users to play/pause music, navigate forward and backward through a song list and adjust volume based on a slider. 
